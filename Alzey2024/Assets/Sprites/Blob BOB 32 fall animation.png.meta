@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 58ad789593bf4ab4cbe1f40455d183e4
+guid: 5a69b3414aef85942ad3aa64b7ba85e2
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fall animation_0
+      name: Blob BOB 32 fall animation_0
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +111,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a0c01c84eb9dbe4981aed916b24fc61
-      internalID: -1639119691
+      spriteID: d1f566a95d83eb144855ec4e4509d63c
+      internalID: 1042157324
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fall animation_1
+      name: Blob BOB 32 fall animation_1
       rect:
         serializedVersion: 2
         x: 32
@@ -132,14 +132,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: adf1571c24b2d7341863c98015e8e8d1
-      internalID: 947182220
+      spriteID: 1d27ea34f4d4e1544a6b9954c95204f5
+      internalID: -1131001430
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fall animation_2
+      name: Blob BOB 32 fall animation_2
       rect:
         serializedVersion: 2
         x: 64
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7f21a071cc0af04696c35c05c4067c9
-      internalID: 285997075
+      spriteID: 1254b19c9c84c5941a3b9dbc431f57b0
+      internalID: 319367429
       vertices: []
       indices: 
       edges: []
@@ -170,9 +170,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      fall animation_0: -1639119691
-      fall animation_1: 947182220
-      fall animation_2: 285997075
+      Blob BOB 32 fall animation_0: 1042157324
+      Blob BOB 32 fall animation_1: -1131001430
+      Blob BOB 32 fall animation_2: 319367429
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
